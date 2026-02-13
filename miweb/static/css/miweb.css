@@ -1,0 +1,64 @@
+.no-scroll {
+  overflow: hidden;
+}
+
+.altura-100p {
+  height: 100%;
+}
+
+.altura-80p {
+  height: 80%;
+}
+
+.altura-60p {
+  height: 60%;
+}
+
+.altura-40p {
+  height: 40%;
+}
+
+.altura-100 {
+  height: 100vh;
+}
+
+.altura-80 {
+  height: 80vh;
+}
+
+.altura-60 {
+  height: 60vh;
+}
+
+.altura-40 {
+  height: 40vh;
+}
+
+.altura-20 {
+  height: 20vh;
+}
+
+/* font-face */
+@font-face {
+  font-family: 'MiGotica';
+  src: url('./old_london/OldLondon.ttf') format('truetype');
+}
+
+/* fonts family */
+
+/* 
+Estilos personalizados para miweb
+*/
+
+/* Estilo para el header */
+.header20 {
+  font-family: 'MiGotica', Georgia, 'Times New Roman', Times, serif;
+}
+
+
+/* Estilo para el fondo y el texto del main */
+.main {
+  font-family: 'Robo', Arial, Helvetica, sans-serif;
+  background-color: purple;
+  color: white;
+}
